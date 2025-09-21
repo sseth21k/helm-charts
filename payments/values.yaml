@@ -81,4 +81,4 @@ tolerations: []
 
 affinity: {}
 
-appMessage: "This is a sample product payments service module"
+appMessage: "This is a sample product payments service module for demo purpose."
